@@ -15,7 +15,7 @@ commercially deployed systems, startups and a number of open source
 projects. He is the recipient of a Google faculty award, an NSF CAREER
 fellowship, and NSF and DARPA grants.
 
-## Johnathan Van-Why
+## Johnathan Van Why
 ### Research Scientist
 
 Johnathan is has over a decade of experience designing, building, and
