@@ -33,14 +33,24 @@ en:
       parent: "about"
     - identifier: "people"
       name: "People"
-      url: "/about/team/"
+      url: "/about/people/"
       weight: 2
       post: "Who we are"
       parent: "about"
-    - identifier: "goals"
+    - identifier: "research"
       name: "Research"
       url: "/research/"
       weight: 2
+    - identifier: "tockos"
+      name: "Extensible Operating Systems"
+      url: "https://tockos.org/papers"
+      weight: 1
+      parent: "research"
+    - identifier: "harvest"
+      name: "HARVEST"
+      url: "https://harvest.betterbytes.org"
+      weight: 2
+      parent: "research"
     - identifier: "projects"
       name: "Projects"
       weight: 3
