@@ -5,7 +5,7 @@ en:
   copyright: "Copyright &copy; {{< current_year >}} Better Bytes. All Rights Reserved."
   title: "Better Bytes"
   params:
-    description: "Site Description"
+    description: "Better Bytes"
     ### accessibility ###
     #accessibility:
     #  skip_text: "Skip to content"
