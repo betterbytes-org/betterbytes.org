@@ -14,7 +14,7 @@ to help you pick the best path forward.
 | Platinum Membership                                              | Gold Membership                                        | Silver Membership                                      |
 |------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 | $200k per year                                                   | $100k per year                                         | $5k-50k per year                                       |
-| Dedicated seat on project steering committess.                   | Representation on project steering committees.         | Representation on project steering committees.         |
+| Dedicated seat on project steering committees.                   | Representation on project steering committees.         | Representation on project steering committees.         |
 | Prioritized promotion in monthly newsletter.                     | Prioritized promotion in monthly newsletter.           | Opportunities to collaborate on important initiatives. |
 | Exclusive opportunities to collaborate on important initiatives. | Opportunities to collaborate on important initiatives. | $5k per year per 50 employees up to 500 employees.     |
 

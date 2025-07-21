@@ -61,7 +61,7 @@ en:
       parent: "projects"
     - identifier: "treadmill"
       name: "Treadmill"
-      url: "https://github.com/treadmill-rs"
+      url: "https://github.com/treadmill-tb"
       weight: 2
       parent: "projects"
     - identifier: "events"
