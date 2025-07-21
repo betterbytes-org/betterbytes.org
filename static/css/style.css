@@ -1,0 +1,12 @@
+.column p:has(img) {
+    background-color: #eff1f3;
+    padding: 3em;
+}
+
+.column img {
+    display: block;
+    margin: 0 auto;
+    border: 10px solid #03856f;
+    border-radius: 5px;
+    padding: 1em;
+}

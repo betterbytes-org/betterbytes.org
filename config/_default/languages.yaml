@@ -1,0 +1,60 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} Better Bytes. All Rights Reserved."
+  title: "Better Bytes"
+  params:
+    description: "Site Description"
+    ### accessibility ###
+    #accessibility:
+    #  skip_text: "Skip to content"
+    #  help_text: "Accessibility Statement"
+    #  help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Join"
+      link: "/get-involved/"
+    footer_cta:
+      text: "Join us"
+      link: "/get-involved/"
+    #github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "about"
+      name: "About"
+      weight: 1
+    - identifier: "mission"
+      name: "Mission"
+      url: "/about/mission/"
+      weight: 1
+      post: "What we stand for"
+      parent: "about"
+    - identifier: "people"
+      name: "People"
+      url: "/about/team/"
+      weight: 2
+      post: "Who we are"
+      parent: "about"
+    - identifier: "goals"
+      name: "Research"
+      url: "/research/"
+      weight: 2
+    - identifier: "projects"
+      name: "Projects"
+      weight: 3
+    - identifier: "tock"
+      name: "Tock"
+      url: "https://tockos.org"
+      weight: 1
+      parent: "projects"
+    - identifier: "treadmill"
+      name: "Treadmill"
+      url: "https://github.com/treadmill-rs"
+      weight: 2
+      parent: "projects"
+    - identifier: "events"
+      name: "Events"
+      url: "/events/"
+      weight: 4
